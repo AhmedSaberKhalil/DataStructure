@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchTree", "BinarySearchTree\BinarySearchTree.csproj", "{F798BDA8-9DAE-4CA6-A197-A4D5DB474A05}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchTree", "BinarySearchTree\BinarySearchTree.csproj", "{25872596-AE04-445D-AE22-A15CF7B55E38}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F798BDA8-9DAE-4CA6-A197-A4D5DB474A05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F798BDA8-9DAE-4CA6-A197-A4D5DB474A05}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F798BDA8-9DAE-4CA6-A197-A4D5DB474A05}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F798BDA8-9DAE-4CA6-A197-A4D5DB474A05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25872596-AE04-445D-AE22-A15CF7B55E38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25872596-AE04-445D-AE22-A15CF7B55E38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25872596-AE04-445D-AE22-A15CF7B55E38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25872596-AE04-445D-AE22-A15CF7B55E38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {052232CE-DB30-401D-9DF1-12FCF98D7D94}
+		SolutionGuid = {A01651B9-E3FB-41E6-B3AB-F5AB409A2974}
 	EndGlobalSection
 EndGlobal

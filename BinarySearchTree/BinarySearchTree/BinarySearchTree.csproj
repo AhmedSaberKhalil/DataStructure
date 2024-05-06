@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F798BDA8-9DAE-4CA6-A197-A4D5DB474A05}</ProjectGuid>
+    <ProjectGuid>{25872596-AE04-445D-AE22-A15CF7B55E38}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>BinarySearchTree</RootNamespace>
     <AssemblyName>BinarySearchTree</AssemblyName>
@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BST.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
