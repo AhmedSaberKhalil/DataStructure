@@ -1,0 +1,7 @@
+D:\.NET Core\Data Structure C#\DataStructure\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe.config
+D:\.NET Core\Data Structure C#\DataStructure\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe
+D:\.NET Core\Data Structure C#\DataStructure\BubbleSort\BubbleSort\bin\Debug\BubbleSort.pdb
+D:\.NET Core\Data Structure C#\DataStructure\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csproj.AssemblyReference.cache
+D:\.NET Core\Data Structure C#\DataStructure\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+D:\.NET Core\Data Structure C#\DataStructure\BubbleSort\BubbleSort\obj\Debug\BubbleSort.exe
+D:\.NET Core\Data Structure C#\DataStructure\BubbleSort\BubbleSort\obj\Debug\BubbleSort.pdb
